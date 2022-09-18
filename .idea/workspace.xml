@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b082f39-c704-42ec-bdb2-afefae2e2d70" name="Changes" comment="Swapping_2Variable">
-      <change afterPath="$PROJECT_DIR$/src/Seperate_Even_odd.java" afterDir="false" />
+    <list default="true" id="7b082f39-c704-42ec-bdb2-afefae2e2d70" name="Changes" comment="Seperate_Even_odd">
+      <change afterPath="$PROJECT_DIR$/src/Searching_Element.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,14 @@
     "last_opened_file_path": "C:/Users/Shubham/Desktop/java/LogicCodes"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Seperate_Even_odd">
+  <component name="RunManager" selected="Application.Searching_Element">
+    <configuration name="Searching_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching_Element" />
+      <module name="LogicCodes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Seperate_Even_odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seperate_Even_odd" />
       <module name="LogicCodes" />
@@ -67,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Searching_Element" />
         <item itemvalue="Application.Seperate_Even_odd" />
         <item itemvalue="Application.Swapping_2variable" />
         <item itemvalue="Application.Swapping_3Variable" />
@@ -97,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663487337122</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Seperate_Even_odd">
+      <created>1663490573773</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663490573774</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Swapping_3Variable" />
     <MESSAGE value="Swapping_2Variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Swapping_2Variable" />
+    <MESSAGE value="Seperate_Even_odd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seperate_Even_odd" />
   </component>
 </project>
