@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b082f39-c704-42ec-bdb2-afefae2e2d70" name="Changes" comment="Swapping_3Variable">
-      <change afterPath="$PROJECT_DIR$/src/Swapping_2variable.java" afterDir="false" />
+    <list default="true" id="7b082f39-c704-42ec-bdb2-afefae2e2d70" name="Changes" comment="Swapping_2Variable">
+      <change afterPath="$PROJECT_DIR$/src/Seperate_Even_odd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,10 +33,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Shubham/Desktop/Data Structure"
+    "last_opened_file_path": "C:/Users/Shubham/Desktop/java/LogicCodes"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Swapping_2variable">
+  <component name="RunManager" selected="Application.Seperate_Even_odd">
+    <configuration name="Seperate_Even_odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seperate_Even_odd" />
+      <module name="LogicCodes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Swaping_3Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Swaping_3Variable" />
       <module name="LogicCodes" />
@@ -60,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Seperate_Even_odd" />
         <item itemvalue="Application.Swapping_2variable" />
         <item itemvalue="Application.Swapping_3Variable" />
         <item itemvalue="Application.Swaping_3Variable" />
@@ -82,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663432043177</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Swapping_2Variable">
+      <created>1663487337122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663487337122</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Swapping_3Variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Swapping_3Variable" />
+    <MESSAGE value="Swapping_2Variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Swapping_2Variable" />
   </component>
 </project>
