@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b082f39-c704-42ec-bdb2-afefae2e2d70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Swaping_3Variable.java" afterDir="false" />
+    <list default="true" id="7b082f39-c704-42ec-bdb2-afefae2e2d70" name="Changes" comment="Swapping_3Variable">
+      <change afterPath="$PROJECT_DIR$/src/Swapping_2variable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,12 +33,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Shubham/Desktop/Data Structure/out/production/Data Structure/out"
+    "last_opened_file_path": "C:/Users/Shubham/Desktop/Data Structure"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Swapping_3Variable">
+  <component name="RunManager" selected="Application.Swapping_2variable">
     <configuration name="Swaping_3Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Swaping_3Variable" />
+      <module name="LogicCodes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swapping_2variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swapping_2variable" />
       <module name="LogicCodes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Swapping_2variable" />
         <item itemvalue="Application.Swapping_3Variable" />
         <item itemvalue="Application.Swaping_3Variable" />
       </list>
@@ -67,6 +75,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663430466927</updated>
     </task>
+    <task id="LOCAL-00001" summary="Swapping_3Variable">
+      <created>1663432043177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663432043177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Swapping_3Variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Swapping_3Variable" />
   </component>
 </project>
